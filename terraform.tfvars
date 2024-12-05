@@ -3,3 +3,4 @@
  avail_zone = "us-east-2a"
  env_prefix =  "dev"
  my_ip = "85.246.32.98/32"
+ instance_type = "t2.micro"
