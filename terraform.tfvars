@@ -4,4 +4,5 @@
  env_prefix =  "dev"
  my_ip = "0.0.0.0/0"
  instance_type = "t2.micro"
- public_key_location = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDnLcrLSyxrxiX7B4rPwjSzuOZrl7O6BfZJBY5FiLtrqivl1kpVN+QrAssD9tjH0lws1JndCg7gQyXU0Z+NGWXmsbjeEvMuSQWQdcZ24XqwUhdirTqglE7ehFm6Et/M2HIgkUVu8iMWrEr7n78Ip0742z56DNUslg4fJ9PmUjfBn/bBOAAvAQvR/O6+hRdxy8PkrFoo/IoaBNKBbeNn4jNtFknmQIk5wrxLBYs6BAuvz12zSlImgcpOQ16/dkoxvNDF+Dl62PFPItPdmFi8bic3LGn14GYgRByid+62O4noN2BROedCNc4TCe4iOavfE+bew79Fq/KjMbgwsw7Qv40ql+4eJtwJhqKd6shAbP4QxU6PuQpDpY8+R7E2RwKPyohgfw1ziW1wBy7sLhYQvzmOoO9Ndx+0h6NhdHbCrQsfbKQCvNeOcTdzylXagxjx14Kh7dG+Otd/UN1N8NPWDDBaiklveK8bVyfOp8qXW4xAJ4MFnQn56aAV93egfjtRbVE= abdul@ashiwaju"
+ public_key_location = "C:/Users/abdul/.ssh/id_rsa.pub"
+ private_key_location = "C:/Users/abdul/.ssh/id_rsa"
